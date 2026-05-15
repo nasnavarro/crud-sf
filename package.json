@@ -1,0 +1,25 @@
+{
+  "name": "crud-sf",
+  "version": "1.0.0",
+  "description": "Recuerda seguir estos pasos:",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasnavarro/crud-sf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/nasnavarro/crud-sf/issues"
+  },
+  "homepage": "https://github.com/nasnavarro/crud-sf#readme",
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
